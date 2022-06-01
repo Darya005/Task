@@ -1,0 +1,22 @@
+21
+Nabatov gynecologist 26.09.1940 11 20581
+Vereshchagin allergist 27.10.1971 25 29973
+Shchepkin immunologist 20.02.1953 10 106419
+Volkov resuscitator 17.07.1961 24 76346
+Yakubovsky bacteriologist 18.03.1968 14 130469
+Pankov virologist 03.03.1960 15 83594
+Smolnikov gastroenterologist 24.10.1949 16 49880
+Menshikov oncologist 13.12.1989 25 52358
+Pustokhodov nutritionist 26.08.1957 13 45575
+Zhzhenov cosmetologist 19.03.1974 19 23697
+Dernov neurologist 19.07.1962 10 116282
+Zolotov neurosurgeon 21.11.1989 13 110696
+Ermolaev orthodontist 02.01.1987 16 117075
+Komolov osteopath 10.11.1967 25 55833
+Balaev otolaryngologist 28.07.1952 16 39783
+Mikhalitsyn pediatrician 19.10.1964 10 27623
+Herschelman psychiatrist 21.02.1966 14 134450
+Chigrakov narcologist 22.06.1945 4 30603
+Mendeleev dentist 03.02.1993 6 67074
+Platonov urologist 03.03.1987 11 20672
+Gribanov phthisiologist 20.08.1947 9 13592 
